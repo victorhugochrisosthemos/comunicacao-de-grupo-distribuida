@@ -345,7 +345,7 @@ python gerar_nos.py 15
 
 ## Autores
 
-Preencher com os integrantes da equipe.
+Vicor Chrisosthemos
 
 ## Disciplina
 
