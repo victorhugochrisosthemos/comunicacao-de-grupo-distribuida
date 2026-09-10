@@ -1,0 +1,79 @@
+{
+  "nos": [
+    {
+      "id": 1,
+      "host": "node1",
+      "porta": 5000
+    },
+    {
+      "id": 2,
+      "host": "node2",
+      "porta": 5000
+    },
+    {
+      "id": 3,
+      "host": "node3",
+      "porta": 5000
+    },
+    {
+      "id": 4,
+      "host": "node4",
+      "porta": 5000
+    },
+    {
+      "id": 5,
+      "host": "node5",
+      "porta": 5000
+    },
+    {
+      "id": 6,
+      "host": "node6",
+      "porta": 5000
+    },
+    {
+      "id": 7,
+      "host": "node7",
+      "porta": 5000
+    },
+    {
+      "id": 8,
+      "host": "node8",
+      "porta": 5000
+    },
+    {
+      "id": 9,
+      "host": "node9",
+      "porta": 5000
+    },
+    {
+      "id": 10,
+      "host": "node10",
+      "porta": 5000
+    },
+    {
+      "id": 11,
+      "host": "node11",
+      "porta": 5000
+    },
+    {
+      "id": 12,
+      "host": "node12",
+      "porta": 5000
+    },
+    {
+      "id": 13,
+      "host": "node13",
+      "porta": 5000
+    },
+    {
+      "id": 14,
+      "host": "node14",
+      "porta": 5000
+    },
+    {
+      "id": 15,
+      "host": "node15",
+      "porta": 5000
+    }
+  ]
+}

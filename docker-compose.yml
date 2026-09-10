@@ -1,0 +1,105 @@
+services:
+  node1:
+    build: .
+    environment:
+      NODE_ID: 1
+    stdin_open: true
+    tty: true
+
+  node2:
+    build: .
+    environment:
+      NODE_ID: 2
+    stdin_open: true
+    tty: true
+
+  node3:
+    build: .
+    environment:
+      NODE_ID: 3
+    stdin_open: true
+    tty: true
+
+  node4:
+    build: .
+    environment:
+      NODE_ID: 4
+    stdin_open: true
+    tty: true
+
+  node5:
+    build: .
+    environment:
+      NODE_ID: 5
+    stdin_open: true
+    tty: true
+
+  node6:
+    build: .
+    environment:
+      NODE_ID: 6
+    stdin_open: true
+    tty: true
+
+  node7:
+    build: .
+    environment:
+      NODE_ID: 7
+    stdin_open: true
+    tty: true
+
+  node8:
+    build: .
+    environment:
+      NODE_ID: 8
+    stdin_open: true
+    tty: true
+
+  node9:
+    build: .
+    environment:
+      NODE_ID: 9
+    stdin_open: true
+    tty: true
+
+  node10:
+    build: .
+    environment:
+      NODE_ID: 10
+    stdin_open: true
+    tty: true
+
+  node11:
+    build: .
+    environment:
+      NODE_ID: 11
+    stdin_open: true
+    tty: true
+
+  node12:
+    build: .
+    environment:
+      NODE_ID: 12
+    stdin_open: true
+    tty: true
+
+  node13:
+    build: .
+    environment:
+      NODE_ID: 13
+    stdin_open: true
+    tty: true
+
+  node14:
+    build: .
+    environment:
+      NODE_ID: 14
+    stdin_open: true
+    tty: true
+
+  node15:
+    build: .
+    environment:
+      NODE_ID: 15
+    stdin_open: true
+    tty: true
